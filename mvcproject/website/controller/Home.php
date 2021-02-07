@@ -1,8 +1,9 @@
 <?php
-class HomeController extends Controller{
+class Home extends Controller{
     function __construct()
     {
         parent::__construct();
+        
     }
 
     function index(){

@@ -26,8 +26,8 @@
             </div>
             <div class='hometext'>
                 <h1>Brandlink Overseas Company</h1>
-                <a href="login.php">Login</a>
-                <a href="register.php">Register</a>
+                <a href="Login/log">Login</a>
+                <a href="register/register">Register</a>
             </div>
         </header>
         <div class="content" style="background-image: url('<?php echo URL; ?>public/img/homeback.jpg');">

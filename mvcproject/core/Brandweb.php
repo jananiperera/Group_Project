@@ -22,7 +22,7 @@
 
         private function _loadDefaultController(){
             require 'website/controller/Home.php';
-            $this->_controller = new HomeController();
+            $this->_controller = new Home();
             $this->_controller->index();
         }
 
